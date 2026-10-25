@@ -1,4 +1,4 @@
-# npm-publish
+# npm-publish skill
 
 [![skills.sh](https://skills.sh/b/KHAEntertainment/npm-publish)](https://skills.sh/KHAEntertainment/npm-publish)
 
