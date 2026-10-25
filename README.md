@@ -2,7 +2,7 @@
 
 [![skills.sh](https://skills.sh/b/KHAEntertainment/npm-publish)](https://skills.sh/KHAEntertainment/npm-publish)
 
-A Claude Code skill that keeps agents on npm's **current** publishing methodology, not the token workflow their training data remembers.
+A Claude Code skill that keeps agents on npm's **current** publishing methodology, not the often outdated workflow their training data remembers.
 
 Agents (and models) keep defaulting to `npm token create` → `NPM_TOKEN` secret → `NODE_AUTH_TOKEN`, and to bypassing 2FA. npm has moved on: the current path is **OIDC trusted publishing** (`id-token: write`, no long-lived token) plus **staged publishing** (`npm stage publish` → maintainer approves with 2FA), with **provenance** generated automatically.
 
