@@ -1,0 +1,9 @@
+{
+  "name": "npm-publish",
+  "version": "0.1.0",
+  "description": "Current npm publishing methodology — OIDC trusted publishing, staged publishing, provenance, and 2FA enforcement, token-free. Kicks in whenever an agent publishes to npm.",
+  "author": { "name": "KHA Entertainment" },
+  "repository": "https://github.com/KHAEntertainment/npm-publish",
+  "license": "MIT",
+  "keywords": ["npm", "publishing", "provenance", "trusted-publishing", "oidc", "staged-publishing", "2fa", "cli", "ci-cd"]
+}
